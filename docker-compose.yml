@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    environment:
+      - KAFKA_SERVER=161.132.40.126:29092
+    ports: 
+      - "5000:5000"
+    

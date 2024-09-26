@@ -1,0 +1,4 @@
+Flask==2.2.0
+Werkzeug==2.2.0
+confluent_kafka==1.9.2 
+gunicorn==20.1.0  
